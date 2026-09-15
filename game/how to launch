@@ -2,6 +2,12 @@ Requirements:
 Python
 Pygame
 
-File set up should be the same as they are in the repo
+File set up should be:
+
+main.py
+dialogue.json
+images
+music
+
 
 Run on any IDE
